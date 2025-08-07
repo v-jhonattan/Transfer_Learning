@@ -8,8 +8,6 @@ Modelo de classificação de flores com 83.74% de acurácia usando EfficientNetB
 | **Acurácia**    | 99.66% | 85.69%    | 83.74%|
 | **Loss**        | 0.0263 | 0.5732    | 0.6660|
 
-**Evolução**:  
-![Training Progress](https://via.placeholder.com/600x200?text=Training+Metrics+Chart)
 
 ## 🛠️ Tecnologias
 - TensorFlow 2.x
